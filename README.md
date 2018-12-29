@@ -4,4 +4,4 @@
 ## 2、常用工具
 python、anaconda包，内置（numpy、pandas、matplot）、sklearn、tensorflow...
 ## 3、数学相关
-微分（导数）、向量、凹函数..
+微分（导数）、向量、凹函数、概率论与数理统计..
